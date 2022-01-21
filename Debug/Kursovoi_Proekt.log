@@ -1,0 +1,15 @@
+﻿  Change.cpp
+  Console.cpp
+D:\БГУиР\3 сем\Курсовая\Kursovoi_Proekt(1)\Console.cpp(7,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\БГУиР\3 сем\Курсовая\Kursovoi_Proekt(1)\Console.cpp(7,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  Delete.cpp
+  Functions.cpp
+  Global.cpp
+  Input.cpp
+  Main.cpp
+  Menu.cpp
+  Registration.cpp
+  Task.cpp
+  Train.cpp
+  Создание кода...
+  Kursovoi_Proekt.vcxproj -> D:\БГУиР\3 сем\Курсовая\Kursovoi_Proekt(1)\Debug\Kursovoi_Proekt.exe

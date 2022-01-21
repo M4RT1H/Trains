@@ -1,0 +1,3 @@
+C:\Users\M4RT1H\source\repos\Kursovoi_Proekt\Debug\Kursovoi_Proekt.exe
+C:\Users\M4RT1H\source\repos\Kursovoi_Proekt\Debug\Kursovoi_Proekt.pdb
+D:\БГУиР\3 сем\Курсовая\Kursovoi_Proekt(1)\Debug\Kursovoi_Proekt.exe
